@@ -27,5 +27,13 @@ Software: [Affinity designer](https://affinity.serif.com/en-gb/)
 </p>
 
 <p align="center">
+    <img src="export/sideral_time_reference.png" width="500">
+</p>
+
+<p align="center">
+    <img src="export/pixel.png" width="500">
+</p>
+
+<p align="center">
     and more ...
 </p>
