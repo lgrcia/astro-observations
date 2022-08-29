@@ -1,7 +1,7 @@
 # Observational Astrophysics
 
 <p align="center">
-    <img src="export/logo.png" width="350">
+    <img src="export/logo.png" width="450">
 </p>
 
 
