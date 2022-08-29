@@ -1,7 +1,13 @@
 # Observational Astrophysics
+
+<p align="center">
+    <img src="export/logo.png" width="350">
+</p>
+
+
 Curated open-source illustrations used in the class of Observational Astrophysics at the University of Liège (Professor Emmanuel Jehin)
 
-Software: Affinity designer
+Software: [Affinity designer](https://affinity.serif.com/en-gb/)
 
 ## Illustrations
 <p align="center">
