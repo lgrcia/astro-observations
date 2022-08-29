@@ -5,19 +5,19 @@ Software: Affinity designer
 
 ## Illustrations
 <p align="center">
-    <img src="export/equinox.png" width="350">
+    <img src="export/equinox.png" width="500">
 </p>
 
 <p align="center">
-    <img src="export/radec.png" width="300">
+    <img src="export/radec.png" width="500">
 </p>
 
 <p align="center">
-    <img src="export/sideral_time.png" width="300">
+    <img src="export/sideral_time.png" width="500">
 </p>
 
 <p align="center">
-    <img src="export/charge transfer.png" width="350">
+    <img src="export/charge transfer.png" width="500">
 </p>
 
 <p align="center">
